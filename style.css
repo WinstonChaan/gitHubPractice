@@ -1,4 +1,6 @@
 .mainDIV {
   background-color: blue;
   font-size: large;
+  display: flex;
+  justify-content: center;
 }
