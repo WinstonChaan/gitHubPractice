@@ -4,3 +4,17 @@
   display: flex;
   justify-content: center;
 }
+
+.second {
+  background-color: blue;
+  font-size: large;
+  display: flex;
+  justify-content: center;
+}
+
+.thirs {
+  background-color: blue;
+  font-size: large;
+  display: flex;
+  justify-content: center;
+}
